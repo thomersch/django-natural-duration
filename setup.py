@@ -19,7 +19,7 @@ setup(
     download_url='https://github.com/jmerdich/django-natural-duration/tarball/0.1',  # noqa
     license='New BSD',
     install_requires=[
-        'Django>=1.8,<1.9'
+        'Django>=1.8'
     ],
     keywords=['forms', 'timedelta', 'humanize'],
     classifiers=[
